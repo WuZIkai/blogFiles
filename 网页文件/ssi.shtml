@@ -1,0 +1,12 @@
+<!--#ECHO var="ALL_HTTP"-->
+<!--#ECHO var="DOCUMENT_NAME"-->
+<!--#ECHO var="SERVER_SOFTWARE"-->
+<!--#ECHO var="SERVER_NAME"-->
+<!--#ECHO var="SERVER_PORT"-->
+<!--#ECHO var="REMOTE_ADDR"-->
+<!--#ECHO var="REMOTE_HOST"-->
+<!--#ECHO var="PATH_TRANSLATED"-->
+<!--#ECHO var="PATH_INFO"-->
+<!--#ECHO var="HTTP_ACCEPT"-->
+<!--#ECHO var="DOCUMENT_URI"-->
+<!--#include file="1.html"-->
